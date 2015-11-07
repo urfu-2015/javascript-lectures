@@ -1,13 +1,13 @@
 # Объекты
 
-- [Введение](6-objects.md#Object)
-- [Object](6-objects.md#Object)
+- [Введение](6-objects.md#Введение-)
+- [Object](6-objects.md#object-)
 	- [Понятие object](6-objects.md#%D0%9F%D0%BE%D0%BD%D1%8F%D1%82%D0%B8%D0%B5-object)
 	- [Создание объекта](6-objects.md#%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0-)
-		- [Создание объектов с помощью литерала объектов](6-objects.md#--%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0-new-)
-		- [Создание объектов с помощью оператора new](6-objects.md#--%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-objectcreate-)
-		- [Создание объектов с помощью Object.create()](6-objects.md#--%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%BE%D0%B2-%D1%81-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E-objectcreate-)
-	- [Собственные свойста и методы объекта](6-objects.md#%D0%A1%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B0-%D0%B8-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B-%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0)
+		- [Создание объектов с помощью литерала объектов](6-objects.md#Создание-объектов-с-помощью-литерала-объектов-)
+		- [Создание объектов с помощью оператора new](6-objects.md#Создание-объектов-с-помощью-оператора-new-)
+		- [Создание объектов с помощью Object.create()](6-objects.md#Создание-объектов-с-помощью-objectcreate-)
+	- [Собственные свойста и методы объекта](6-objects.md#Собственные-свойста-и-методы-объекта-)
 	- [Получение и изменение свойств](6-objects.md#%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2-)
 		- [Ошибки доступа к свойствам](6-objects.md#%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B8-%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0-%D0%BA-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%B0%D0%BC-)
 		- [Удаление свойств](6-objects.md#%D0%A3%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D1%81%D0%B2%D0%BE%D0%B9%D1%81%D1%82%D0%B2-)
@@ -36,7 +36,7 @@
 	- [Разбор строки, Date.parse](6-objects.md#Разбор-строки-dateparse-)
 	- [Вывод](6-objects.md#Вывод-)
 - [Math](6-objects.md#math-)
-	- [Свойства](6-objects.md#Свойства)
+	- [Свойства](6-objects.md#Свойства-)
 	- [Методы](6-objects.md#Методы-)
 
 -------
