@@ -6,3 +6,4 @@
 4. [Замыкание](4-closure.md)
 5. [Контекст исполнения и this](5-this.md)
 6. [Объекты, массивы, Date и Math](6-objects.md)
+7. [Прототипы](7-prototypes.md)
