@@ -193,7 +193,7 @@ setInterval(function () {
 
 setTimeout(function () {
 	console.log('Приступаем к чтению!');
-	fs.readFileSync('huge.txt', function () {
+	fs.readFile('huge.txt', function () {
 		console.log('Файл прочитан!');
 	});
 }, 5000)
