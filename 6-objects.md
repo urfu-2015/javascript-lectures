@@ -510,7 +510,7 @@ console.log(arr); // 10
 
 var arr2 = [];
 arr2[100] = 1;
-console.log(arr2); // 101
+console.log(arr2.length); // 101
 ```
 
 Т.е. `length` — не количество элементов массива, а последний индекс + 1.

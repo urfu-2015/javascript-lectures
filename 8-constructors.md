@@ -590,7 +590,7 @@ var person = {
 };
 
 var student = Object.create(person);    // student --> person
-student.getName = function () { return 'Student ' + person.call(this); };
+student.getName = function () { return 'Student ' + person.getName.call(this); };
 
 var john = student.create('John');      // john --> student --> person
 
